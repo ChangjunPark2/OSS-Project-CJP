@@ -2,6 +2,7 @@
 
 int main()
 {
-  printf("fist");
+  printf("f2ist");
+  printf("Second");
   return 0;
 }

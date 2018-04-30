@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 int main()
@@ -7,3 +8,5 @@ int main()
   printf("Fourth oss code\n");
   return 0;
 }
+=======
+>>>>>>> parent of 7373f13... 두번째 변경했다
